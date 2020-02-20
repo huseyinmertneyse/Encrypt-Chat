@@ -1,0 +1,2 @@
+Server:&#9&0 Bağlandı.
+Server:&#9&0Bağlantısı Koptu!(Time Out!)0&#9&Ayrıldı.
